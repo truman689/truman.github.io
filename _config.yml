@@ -21,7 +21,7 @@ repository               : "truman689/truman689.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profpic.jpg"
+  avatar           : https://truman689.github.io/images/profpic.jpg"
   name             : "Truman Mylin"
   pronouns         : # example: "she/her"  
   bio              : "31."
