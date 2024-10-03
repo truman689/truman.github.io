@@ -50,7 +50,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # @trumylin
+  instagram        :  @trumylin
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -60,12 +60,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # @trumanmylin
+  twitter          :  @trumanmylin
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # @trumanmylin
+  youtube          :  @trumanmylin
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
